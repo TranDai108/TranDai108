@@ -1,7 +1,7 @@
 <!-- README Start -->
 
 <div align="center">
-  <h1>👋 Hi, I'm Dai, you guys can call me Feliz instead</h1>
+  <h1>👋 Hi, I'm Feliz</h1>
   <p>A senior developer from Vietnam, currently based in Ho Chi Minh City. I'm passionate about building highly aesthetic, scalable and performance-optimized systems.</p>
 </div>
 
